@@ -13,7 +13,7 @@ The focus is on clear, easy-to-browse use cases that demonstrate how Fabric feat
 ---
 
 ## 🧭 Quick navigation
-- 🔔 [Mirror DB Alert walkthrough](Mirror%20DB%20Alert/read.md) : detect and sends alert from Fabric mirroring DB based on status log from Fabric workspace monitoring.
+- 🔔 [Mirror DB Alert walkthrough](Mirror%20DB%20Alert/read.md) : Sends Teams and email alerts if Fabric Activator detects a failed status log for Fabric Mirroring DB with Fabric workspace monitoring
 
 ---
 
